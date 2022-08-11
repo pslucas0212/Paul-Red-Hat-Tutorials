@@ -1,4 +1,4 @@
-# Paul's Red Hat Tutorial's on redhat.com
+# Paul's Red Hat Tutorials on redhat.com
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
