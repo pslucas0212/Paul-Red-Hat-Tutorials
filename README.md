@@ -17,8 +17,10 @@
 4. [How to prepare Red Hat Satellite for VMWare integration](https://www.redhat.com/en/blog/how-prepare-red-hat-satellite-vmware-integration)
 5. [How to create a VMware VM template for Red Hat Satellite](https://www.redhat.com/en/blog/how-create-vmware-vm-template-red-hat-satellite)
 6. [How to integrate VMWare resources with Red Hat Satellite](https://www.redhat.com/en/blog/how-integrate-vmware-resources-red-hat-satellite)
-7. [How to provision a RHEL VM from Red Hat Satellite]([How to provision a RHEL VM from Red Hat Satellite](https://www.redhat.com/en/blog/how-provision-rhel-vm-red-hat-satellite))
+7. [How to provision a RHEL VM from Red Hat Satellite](https://www.redhat.com/en/blog/how-provision-rhel-vm-red-hat-satellite))
 8. [Configuring External DNS and DHCP for Satellite](https://www.redhat.com/en/blog/configuring-external-dns-and-dhcp-satellite)
 
+### OpenShift
+- [Run .Net code on Red Hat OpenShift Container Platform on Mac OS](https://cloud.redhat.com/blog/run-.net-code-on-red-hat-openshift-container-platform-on-mac-os)
 
 
