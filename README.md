@@ -21,6 +21,6 @@
 8. [Configuring External DNS and DHCP for Satellite](https://www.redhat.com/en/blog/configuring-external-dns-and-dhcp-satellite)
 
 ### OpenShift
-- [Run .Net code on Red Hat OpenShift Container Platform on Mac OS](https://cloud.redhat.com/blog/run-.net-code-on-red-hat-openshift-container-platform-on-mac-os)
+- [Run .Net 7 code on Red Hat OpenShift Container Platform on MacOS](https://cloud.redhat.com/blog/run-.net-7-code-on-red-hat-openshift-container-platform-on-macos)
 
 
