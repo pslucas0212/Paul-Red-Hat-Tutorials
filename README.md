@@ -24,5 +24,5 @@
 - [Run .Net 7 code on Red Hat OpenShift Container Platform on MacOS](https://cloud.redhat.com/blog/run-.net-7-code-on-red-hat-openshift-container-platform-on-macos)
 - [Installing OpenShift on VMWare and Deploying a Sample Application - Part 1](https://cloud.redhat.com/blog/installing-openshift-on-vmware-and-deploying-a-sample-application-part-1)
 - [Installing OpenShift on VMWare and Deploying a Sample Application - Part 2](https://cloud.redhat.com/blog/installing-openshift-on-vmware-and-deploying-a-sample-application-part-2)
-[Installing OpenShift on VMWare and Deploying a Sample Application - Part 3]()
+- [Installing OpenShift on VMWare and Deploying a Sample Application - Part 3]()
 
