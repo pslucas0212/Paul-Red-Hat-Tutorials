@@ -22,5 +22,8 @@
 
 ### OpenShift
 - [Run .Net 7 code on Red Hat OpenShift Container Platform on MacOS](https://cloud.redhat.com/blog/run-.net-7-code-on-red-hat-openshift-container-platform-on-macos)
-
+- [Run .Net 7 code on Red Hat OpenShift Container Platform on MacOS](https://cloud.redhat.com/blog/run-.net-7-code-on-red-hat-openshift-container-platform-on-macos) - Publish Red Hat Hybrid Cloud blog on 22 February 2023
+- [Installing OpenShift on VMWare and Deploying a Sample Application - Part 1](https://cloud.redhat.com/blog/installing-openshift-on-vmware-and-deploying-a-sample-application-part-1) - Publish Red Hat Hybrid Cloud blog on 25 April 2023
+- [Installing OpenShift on VMWare and Deploying a Sample Application - Part 2](https://cloud.redhat.com/blog/installing-openshift-on-vmware-and-deploying-a-sample-application-part-2)  - Publish Red Hat Hybrid Cloud blog on 26 April 2023
+[Installing OpenShift on VMWare and Deploying a Sample Application - Part 3]()  - Publish Red Hat Hybrid Cloud blog on 27 April 2023
 
