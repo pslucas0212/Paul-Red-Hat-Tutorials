@@ -1,5 +1,7 @@
 # Paul's Red Hat Tutorials on redhat.com
 
+[Articles in progress](https://github.com/pslucas0212/ArticlesInProgress)
+
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
 ### Simple Content Access and Subscription Watch
